@@ -113,7 +113,7 @@ export default function Page() {
             {/* // ? User Data */}
             <div className="h-full md:w-2/3 md:order-1 order-2  md:pr-10 flex flex-col space-y-3 ">
               <div className="pb-2 sm:pt-0 pt-4">
-                <span className="text-xl sm:text-2xl font-bold pb-8 underline">
+                <span className="text-xl sm:text-2xl font-bold pb-8 ">
                   General Information :
                 </span>
               </div>
@@ -126,7 +126,7 @@ export default function Page() {
               </table>
 
               <div className="pb-2 sm:pt-8 pt-4">
-                <span className="text-xl sm:text-2xl font-bold underline">
+                <span className="text-xl sm:text-2xl font-bold ">
                   Additional Information &#58;
                 </span>
               </div>

@@ -3,7 +3,7 @@ import Img from "../../smallComp/image/Img";
 export default function About() {
   return (
     <div className="w-full h-full py-8 md:px-8 flex md:flex-row flex-col md:space-x-12 items-center space-y-4">
-      <div className="flex-none  w-32 lg:w-44 flex justify-center items-center">
+      <div className="flex-none  w-44 lg:w-45 flex justify-center items-center">
         <Img src="myprofile.png" alt="About picture" className="opacity-80" />
       </div>
       <div className="flex flex-col space-y-8  items-center">

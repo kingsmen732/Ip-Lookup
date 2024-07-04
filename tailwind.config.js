@@ -23,12 +23,12 @@ module.exports = {
         About :["Playfair Display", "serif"]
       },
       colors: {
-        AAprimary: "#0b192f",
-        AAsecondary: "#64ffda",
-        AAtertiary: "#112340",
-        ResumeButtonHover: "#153040",
-        MobileNavBarColor: "#112340",
-        StartupBackground: "#020c1b",
+        AAprimary: "#15161a",
+        AAsecondary: "#66fcf1",
+        AAtertiary: "#282a2e",
+        ResumeButtonHover: "#3a98cf",
+        MobileNavBarColor: "#282a2e",
+        StartupBackground: "#181a1c",
       },
     },
   },

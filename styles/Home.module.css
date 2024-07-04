@@ -20,6 +20,11 @@
   justify-content: center;
   align-items: center;
 }
+/* Custom CSS for the white shadow */
+.custom-outline {
+  border: 12px solid rgb(255, 255, 255);
+  box-sizing: border-box;
+}
 
 .footer a {
   display: flex;
@@ -126,4 +131,5 @@
   .logo img {
     filter: invert(1);
   }
+  
 }

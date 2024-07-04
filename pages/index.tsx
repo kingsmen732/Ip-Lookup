@@ -240,7 +240,7 @@ export default function Page() {
                 <div
                   className={`${
                     updatingLocation ? "hidden" : ""
-                  } h-full w-full z-10`}
+                  } h-full w-full z-10 rounded-3xl overflow-hidden custom-outline`}
                 >
                   <Map lat={location[0]} lon={location[1]} />
                 </div>
